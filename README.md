@@ -1,3 +1,5 @@
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-7/512/Laptop-icon.png" alt="laptop" width="300" height="300" /></p>
+
 # مشروع مقدمة في عالم الكمبيوتر 
 
 ### في هذا المشروع سوف تُطبق ما تعلمته في دروس مقدمة في عالم الكمبيوتر
