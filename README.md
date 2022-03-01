@@ -1,38 +1,72 @@
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-7/512/Laptop-icon.png" alt="laptop" width="300" height="300" /></p>
 
-# مشروع مقدمة في عالم الكمبيوتر 
+# <p dir="rtl">
+فيديوهات الدرس</p>
 
-### في هذا المشروع سوف تُطبق ما تعلمته في دروس مقدمة في عالم الكمبيوتر
-------------------
 
-1. ادخل على رابط المشروع [هنا](https://github.com/kuwaitcodes/intro-kuwaitcodes)
 
-2. `Fork`  قم بعمل نسخة للمشروع على حسابك من خلال الضغط على زر 
+<p dir="rtl">
 
-3. **GitHub Desktop** قم فتح المجلد على برنامج 
+* [إنشاء اكاونت](https://youtu.be/2YFjctENWZI) [في github وربطه ب github desktop](https://youtu.be/2YFjctENWZI) 
+</p>
+<p dir="rtl">
 
-4. على جهازك `into-kuwaitcodes` اذهب للمكان الذي تم حفظ المجلد 
 
-5. `intro-kuwaitcodes` قم **بانشاء** مجلد جديد `باسمك` داخل مجلد 
+* [اساسيات github](https://youtu.be/0fl2nBAFQm8) 
 
-6. قم بفتح `مجلد اسمك` و أنشئ مجلديين جديديين الأول `باسم مسارك` و الثاني باسم `تطبيقات`
+</p>
 
-7.  قم بانشاء **ملف نصي جديد**
+# <p dir="rtl">
+طريقة رفع المشاريع ل github   </p>
 
-8. قم بكتابة **لماذا اخترت هذا المسار بالإضافة الى صفك و اسم مدرستك** داخل `الملف النصي` الذي انشئته مسبقاً
 
-9. قم بحفظ `الملف النصي` بكل ما قمت بكتابته
 
-10. قم بنسخ **الملف النصي** و لصقه داخل مجلد `مسارك` 
+<p dir="rtl">
 
-11. قم بوضع صور لبعض التطبيقات التي تعجبك داخل مجلد `تطبيقات` 
+* إنشاء حساب ب github 
+    * اسم حساب الطالب  في github (name - id ) must
+  </p>
+<p dir="rtl">
 
-12. قم بضغط مجلد `تطبيقات`
+* تحميل github desktop 
+</p>
+<p dir="rtl">
 
-13. قم باضافة تعليقاتك **GitHub Desktop** عن طريق 
+* رفع الملجد ل github 
+</p>
 
-14. **Commit master** اضغط على
+---
 
-15. **Push origin** اضغط على
+<p dir="rtl">
+<strong>تمرين</strong>  <a href="https://github.com/kuwaitcodes/github-cw-1">(github link)</a></p>
 
-16. قم بنسخ ولصق الرابط في مكانه المناسب على **موقع الكويت تبرمج** **GitHub** بعد أن تم رفع المجلد مع التغيارات الجديد علي منصة 
+
+<p dir="rtl">
+نبي نتعرف عليك اكثر من هذا التمرين</p>
+
+
+
+
+<p dir="rtl">
+1. قم بعمل fork 
+</p>
+<p dir="rtl">
+2. افتح المجلد في github desktop 
+</p>
+<p dir="rtl">
+3. على جهازك اذهب الى المجلد وقم بإنشاء ملف نصي  txt   جديد وأعد تسميته لإسمك
+</p>
+<p dir="rtl">
+4. افتح الملف النصي وقم بكتابة مسارك وجملة تعريفية عنك 
+</p>
+<p dir="rtl">
+5. افتح برنامج github desktop عندما تنتهي وتود نشر عملك 
+</p>
+<p dir="rtl">
+6. اضف تعليقك summary 
+</p>
+<p dir="rtl">
+7. ثم اضغط على commit to main 
+</p>
+<p dir="rtl">
+8. واخيرا اضغط على push origin
+</p>
