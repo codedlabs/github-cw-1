@@ -6,7 +6,7 @@
 
 <p dir="rtl">
 
-* [إنشاء اكاونت](https://youtu.be/2YFjctENWZI) [في github وربطه ب github desktop](https://youtu.be/2YFjctENWZI) 
+* [إنشاء اكاونت في github وربطه ب github desktop](https://youtu.be/2YFjctENWZI) 
 </p>
 <p dir="rtl">
 
