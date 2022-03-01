@@ -70,3 +70,6 @@
 <p dir="rtl">
 8. واخيرا اضغط على push origin
 </p>
+<p dir="rtl">
+9. قم بتسليم التمرين بMentorly
+</p>
