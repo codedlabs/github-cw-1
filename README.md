@@ -71,5 +71,5 @@
 8. واخيرا اضغط على push origin
 </p>
 <p dir="rtl">
-9. قم بتسليم التمرين بMentorly
+9. قم بتسليم التمرين Coded Lab
 </p>
